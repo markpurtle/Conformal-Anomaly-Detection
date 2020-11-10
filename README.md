@@ -41,29 +41,29 @@ I have presented the code I developed in a series of short Jupyter notebooks. Be
 I will detail which notebooks correspond to which figures and the dataset files they used. 
 When running the code, dataset files must be in the same directory as the Jupyter notebook. 
 
-*USPS Batch SVM Conformal Prediction.ipynb – Figure 7a, USPS dataset
-*USPS Batch 1NN Conformal Prediction.ipynb – Figure 7b, USPS dataset
-*USPS Online SVM Conformal Prediction.ipynb - Figures 8-13, USPS dataset
-*USPS Online ICAD SVM.ipynb – Figure 14, USPS dataset
-*USPS SVM Martingales.ipynb - Figure 15a and 16, USPS dataset
-*USPS 1NN Martingales.ipynb - Figure 15b, USPS dataset
-*NAB Jump Up Anomaly Results.ipynb - Figures 17, 18 and 19, NAB “Jump Up”
+* USPS Batch SVM Conformal Prediction.ipynb – Figure 7a, USPS dataset
+* USPS Batch 1NN Conformal Prediction.ipynb – Figure 7b, USPS dataset
+* USPS Online SVM Conformal Prediction.ipynb - Figures 8-13, USPS dataset
+* USPS Online ICAD SVM.ipynb – Figure 14, USPS dataset
+* USPS SVM Martingales.ipynb - Figure 15a and 16, USPS dataset
+* USPS 1NN Martingales.ipynb - Figure 15b, USPS dataset
+* NAB Jump Up Anomaly Results.ipynb - Figures 17, 18 and 19, NAB “Jump Up”
 dataset
-*NAB Jump Up Martingale Changed Algorithm.ipynb - Figure 20, NAB “Jump Up”
+* NAB Jump Up Martingale Changed Algorithm.ipynb - Figure 20, NAB “Jump Up”
 dataset
-*NAB Jump Up MUSUC Changed Algorithm.ipynb - Figure 21, NAB “Jump Up”
+* NAB Jump Up MUSUC Changed Algorithm.ipynb - Figure 21, NAB “Jump Up”
 dataset
-*NAB Jump Down Martingale.ipynb – Figure 22, NAB “Jump Down” dataset
-*NAB Jump Down MUSUC.ipynb – Figure 23, NAB “Jump Down” dataset
-*NAB No Anomaly.ipynb - Figures 26 and 27, NAB “Small Noise” No Anomaly
+* NAB Jump Down Martingale.ipynb – Figure 22, NAB “Jump Down” dataset
+* NAB Jump Down MUSUC.ipynb – Figure 23, NAB “Jump Down” dataset
+* NAB No Anomaly.ipynb - Figures 26 and 27, NAB “Small Noise” No Anomaly
 dataset
-*Energy Consumption Martingale.ipynb - Figure 28a, Energy Consumption dataset
-*Energy Consumption MUSUC.ipynb - Figure 28b, Energy Consumption dataset
-*Energy Martingales Sliding Window.ipynb - Figures 29 and 31, Energy
+* Energy Consumption Martingale.ipynb - Figure 28a, Energy Consumption dataset
+* Energy Consumption MUSUC.ipynb - Figure 28b, Energy Consumption dataset
+* Energy Martingales Sliding Window.ipynb - Figures 29 and 31, Energy
 Consumption dataset
-*Energy MUSUC Sliding Window.ipynb - Figures 30 and 32, Energy Consumption
+* Energy MUSUC Sliding Window.ipynb - Figures 30 and 32, Energy Consumption
 dataset
-*Energy Consumption Martingale Modification.ipynb – Figure 33, Energy
+* Energy Consumption Martingale Modification.ipynb – Figure 33, Energy
 Consumption dataset 
-*Energy Consumption Random Shuffle.ipynb - Figures 34, 35, 36, Energy
+* Energy Consumption Random Shuffle.ipynb - Figures 34, 35, 36, Energy
 Consumption dataset 
