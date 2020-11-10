@@ -1,7 +1,7 @@
 # Conformal-Anomaly-Detection
 3 month Master's Research Project undertaken at Royal Holloway, University of London
 
-#Abstract
+# Abstract
 Anomalous samples appear in all types of datasets. These may be important samples
 that require further attention, or unimportant samples that can be removed during
 data cleaning. Therefore, it is desirable to provide automated, machine learning
